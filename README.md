@@ -28,3 +28,5 @@ Please indicate my name when using this client!
 >4. Improved infrastructure
 >5. Easy to manage (mass oriented) code structure
 >6. Very few bugs
+
+## All Disclaimers: I am a LowIQ+Sh1t code
