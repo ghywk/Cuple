@@ -19,3 +19,12 @@ My first time using GitHub, I can only suggest that you download the zip file an
 
 ## Important
 Please indicate my name when using this client!
+
+## Feature
+>List :
+>1. Minimalist style HUD
+>2. Minimalist style ClickGui
+>3. Minor bypass but all available
+>4. Improved infrastructure
+>5. Easy to manage (mass oriented) code structure
+>6. Very few bugs
