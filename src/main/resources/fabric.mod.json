@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "cuple",
+  "version": "${version}",
+  "name": "Cuple",
+  "description": "Sh1t",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/cuple/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "bh.dpl.Cuple"
+    ]
+  },
+  "mixins": [
+    "cuple.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

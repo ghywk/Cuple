@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "bh.dpl.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EntityMixin",
+    "LivingEntityMixin"
+  ],
+  "client": [
+    "ClientPacketListenerMixin",
+    "GuiMixin",
+    "IScreenMixin",
+    "KeyBoardHandlerMixin",
+    "KeyboardInputMixin",
+    "LocalPlayerMixin",
+    "MinecraftMixin",
+    "MultiPlayerGameModeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
