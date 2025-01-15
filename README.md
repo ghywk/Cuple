@@ -11,14 +11,13 @@ Unlike Liquidbounce, this client **does not use Kotlin language**, so your compi
 >List : 
 >1. Most complete foundational systems, highly liberalized
 >2. Minimizing redundant code
->3. ~~In my personal opinion~~, the best code
->4. Good **furry** client
+>114. No Furry
 
 ## How to use
 My first time using GitHub, I can only suggest that you download the zip file and build it LOL.
 
 ## Important
-Please indicate my name when using this client!
+Free...
 
 ## Feature
 >List :
@@ -27,6 +26,5 @@ Please indicate my name when using this client!
 >3. Minor bypass but all available
 >4. Improved infrastructure
 >5. Easy to manage (mass oriented) code structure
->6. Very few bugs
 
-## All Disclaimers: I am a LowIQ+Sh1t code
+## Forge mapping...
