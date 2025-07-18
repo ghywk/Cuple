@@ -14,11 +14,8 @@ Unlike Liquidbounce, this client **does not use Kotlin language**, so your compi
 >2. Minimizing redundant code
 >114. No Furry
 
-## How to use
-My first time using GitHub, I can only suggest that you download the zip file and build it LOL.
-
 ## Important
-Free...
+Client base usage, no bypass supported. Also wo stopped updating for some unknown reason.
 
 ## Feature
 >List :
